@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **asyncore project**
 
-- 🌱 I’m currently learning **JavaScript, PHP, Java and frameworks**
+- 🌱 I’m currently learning **JavaScript, PHP, Java**
 
 - 📫 How to reach me **maxdovgan959@gmail.com**
 
