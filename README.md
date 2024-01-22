@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrezu&label=Profile%20views&color=0e75b6&style=flat" alt="xrezu" /> </p>
 
-- 🔭 I’m currently working on **asyncore project**
-
-- 🌱 I’m currently learning **JavaScript, PHP, Java**
+- 🌱 I’m currently learning **Python, JavaScript, PHP, Java**
 
 - 📫 How to reach me **maxdovgan959@gmail.com**
 
